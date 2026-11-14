@@ -1,0 +1,21 @@
+# Dependencies and generated builds
+node_modules/
+dist/
+dist-ssr/
+
+# Logs and local files
+*.log
+*.local
+.verify/
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
